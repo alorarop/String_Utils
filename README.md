@@ -1,2 +1,10 @@
-# String_Utils
- A powerful and efficient Python string utility library for everyday tasks.
+# String Utils
+
+A simple Python library for performing string operations.
+
+## Features
+- Reverse a string
+- Check if a string is a palindrome
+- Count vowels and consonants
+
+## Installation
